@@ -1,0 +1,9 @@
+{
+    "name": "present-decisions",
+    "description": "判断事項を推奨案とともに提示し，ユーザーのコメントを受けて合意事項を確定させる．",
+    "version": "1.0.0",
+    "author": {
+        "name": "myaccount-hash"
+    },
+    "license": "MIT"
+}
