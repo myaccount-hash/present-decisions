@@ -1,7 +1,8 @@
 # present-decisions
 
 判断事項を推奨案とともに提示し，コメントを受けてラウンドを重ねて合意事項を確定させるスキル．
-確定した合意はDECISIONS.mdに記録する．
+確定した合意と保留はDECISIONS.mdに記録する．
+このリポジトリのDECISIONS.mdは，スキル自身の設計判断の記録．
 
 ## インストール（Claude Code）
 
